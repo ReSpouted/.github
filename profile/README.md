@@ -11,7 +11,7 @@ Respouted project is split between both preserving what was with our [Oldspout L
 
 The original Spout project was for CraftBukkit 1.6. A lot of this original project has been lost to time and fails to run on modern computers.
 
-The respouted project is designed to take the original project and gets it working on modern machines as well as trying to restore waht was lost as much as possible
+The respouted project is designed to take the original project and gets it working on modern machines as well as trying to restore what was lost as much as possible
 
 ### Modern
 
